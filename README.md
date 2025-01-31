@@ -1,4 +1,4 @@
-Spl token Volume and Trend Bot
+Spl token Swap Bot
 
 First install the required library in Library.
 
